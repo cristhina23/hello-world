@@ -1,9 +1,5 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your software}
-
 This software is a small JavaScript program that runs in the console and prints a greeting message. It uses a function, loops, and simple text shapes to decorate the output. The program also changes text colors in the console to make the message more interesting.
 
 
